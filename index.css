@@ -22,10 +22,6 @@ body {
   top: 10rem;
 }
 
-.team-container-3 {
-  top: 5rem;
-}
-
 .topic-container {
   position: absolute;
   display: flex;
@@ -58,28 +54,6 @@ body {
   font-size: 43px;
 }
 
-.team-name-2 {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  width: 100%;
-  top: 12rem;
-  font-size: 43px;
-}
-
-.team-name-3 {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  width: 100%;
-  top: -1rem;
-  font-size: 43px;
-}
-
 
 .container .card .imgBx img {
   width: 300px;
@@ -91,13 +65,6 @@ body {
   color: #fff;
 }
 
-.team-name-2 p {
-  color: #fff;
-}
-.team-name-3 p {
-  color: #fff;
-}
-
 .container {
   position: relative;
   display: flex;
@@ -105,19 +72,6 @@ body {
   align-items: center;
   flex-wrap: wrap;
   margin: 7rem 0 0;
-}
-
-.team3{
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  margin: 7rem 0;
-}
-
-.team2 {
-  margin: 15rem 0 0;
 }
 .container .card {
   position: relative;
